@@ -6,17 +6,13 @@
   "scripts": {
     "test": "npm start"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bharti-cmyk/codeial.git"
-  },
+  "repository": {},
   "author": "Bharti Mishra",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bharti-cmyk/codeial/issues"
-  },
-  "homepage": "https://github.com/bharti-cmyk/codeial#readme",
+  
+
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {}
 }
